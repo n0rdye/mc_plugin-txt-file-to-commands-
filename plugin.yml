@@ -1,0 +1,11 @@
+name: Clicker_pug
+version: '${project.version}'
+main: me.n0rdye.clicker_pug.Clicker_pug
+api-version: 1.19
+commands:
+  plug_start:
+    description: start plug
+    usage: /<command>
+  plug_stop:
+    description: stop plug
+    usage: /<command>
